@@ -131,3 +131,40 @@ ul{
     text-align: right;
     margin-top: 8px;
 }
+
+.fourth-section{
+    padding: 64px 15%;
+}
+
+.banner{
+    background-color: #3882f6;
+    color: #f9faf8;
+    display: flex;
+    padding: 36px 0;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 16px;
+}
+
+.banner button{
+    background: #3882f6;
+    border: 3px solid #f9faf8;
+    padding: 4px 24px;
+    color: #f9faf8;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+.banner h1,
+.banner p{
+    margin: 0;
+}
+
+.banner h1{
+    font-size: 24px;
+}
+
+.banner p,
+.banner button{
+    font-size: 16px;
+}
