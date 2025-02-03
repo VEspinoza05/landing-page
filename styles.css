@@ -165,6 +165,18 @@ ul{
 }
 
 .banner p,
-.banner button{
+.banner button
+.footer{
     font-size: 16px;
+}
+
+.footer{
+    background-color: #1f2937;
+    color: #f9faf8;
+    text-align: center;
+    padding: 24px;
+}
+
+.footer p{
+    margin: 0;
 }
