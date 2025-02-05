@@ -89,7 +89,6 @@ ul{
     display: flex;
     justify-content: center;
     gap: 48px;
-    margin-bottom: 140px;
 }
 
 .item{
@@ -102,6 +101,7 @@ ul{
     box-sizing: border-box;
     border: 8px solid #3882f6;
     border-radius: 16px;
+    object-fit: cover;
 }
 
 .second-section h2{
